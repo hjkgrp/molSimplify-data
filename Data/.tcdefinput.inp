@@ -1,0 +1,7 @@
+# Input file generated from GUI options
+-dispersion no
+-runtyp minimize
+-charge 0
+-spin 1
+-method ub3lyp
+-basis lacvps_ecp
